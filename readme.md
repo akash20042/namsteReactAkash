@@ -22,3 +22,7 @@
       git commit -m "Episode-1"
       git remote add origin https://github.com/akash20042/namsteReactAkash.git
       git push origin main
+   # for again uploading you have to make only three changes
+   git add .
+   git commit -m "Episode-2 updates"
+   git push ( no need to write " origin main")
