@@ -1,8 +1,8 @@
 #  React.createELement create the react element , and that react  element is  nothing but the  js obejct
 # which has a props and it's type is h1
- <!-- Render method take the react  element or js object and  convert into h1  tag that browser understand  and print indise the root element  -->
+ Render method take the react  element or js object and  convert into h1  tag that browser understand  and print indise the root element  -->
 
-  <!-- ReactELement => js object =>  render(HTML browser understand) -->
+  ReactELement => js object =>  render(HTML browser understand) 
   
   the best way to learn the things ask the questions  be  curious  ,  why the crossorgin what if we will change he order  why the react and why the react-Dom 
  #  if there are any content is already in the root then render method replace the  that content and put what is in the render
