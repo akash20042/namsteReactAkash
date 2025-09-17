@@ -11,7 +11,7 @@
 
      man kya hota man bhad me jaaye kyoki ye  har baar badal jata hai aur har baar alag alag baate karate  hai isliye man ki na suno jo zaruri hai bs wo karo , see man kya kr rha hai kyoki man har baar tumhe  daurata hai kabhi ye karo to  kabhi wo kyu kyoki usame aanadad ( plesure) aayega but plesure aata hai  nahi hai aur last me  tum thak jaoge isliye man ka na suno jo zaruri hai wo karo
       man  pr jyada dhyan na do na hi man ki baato pr jyada attention do ,  dp exercise amd gathered the power
-   # how tp learn   
+   # how to learn   
        for the development learn through projects don't do master on the things you will learn the things lator on
        if you have to learn something start  from the  problem/ questions and it's the best way to learn anything
  
@@ -25,4 +25,4 @@
    # for again uploading you have to make only three changes
    git add .
    git commit -m "Episode-2 updates"
-   git push ( no need to write " origin main")
+   git push origin main
